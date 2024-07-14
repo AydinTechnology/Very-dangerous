@@ -10,4 +10,4 @@ get pygame `pip install pygame`\
 now all that's left is `python game.py` to run the game
 
 # About the game
-There are two endings and it has high quality music and high quality sprites and backgrounds etc
+There are two endings and it has high quality music and high quality sprites and backgrounds and character graphics and it is high quality
