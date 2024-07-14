@@ -1,12 +1,13 @@
 # Very dangerous - 2022 game award edition
-reupload from my old account because i lost access
+Reupload from my old account because I lost access
 
-Just download the source code and run
+Truly one of the games ever
 
 # How to run?
-get python; just follow the instructions for your operating system on the website\
+get the source code - press the green button and press zip download or something and extract the zip file\
+get python - just follow the instructions for your operating system on the website\
 get pygame `pip install pygame`\
-now all that's left is `python game.py`
+now all that's left is `python game.py` to run the game
 
 # About the game
 There are two endings and it has high quality music and high quality sprites and backgrounds etc
