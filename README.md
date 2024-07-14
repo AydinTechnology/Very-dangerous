@@ -1,4 +1,4 @@
-# Very-dangerous 2022 game award edition
+# Very dangerous - 2022 game award edition
 reupload from my old account because i lost access
 
 Just download the source code and run
